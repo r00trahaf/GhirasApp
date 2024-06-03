@@ -1,0 +1,5 @@
+
+enum SupportType {
+  questions,
+  account,
+}
